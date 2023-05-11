@@ -1,3 +1,5 @@
+I need to re-do this profile. Expect changes soon :)
+
 - 👋 Hi, I’m @pete-jacobsson
 - 👀 I’m interested in: Bayesian modelling; drawing inferences from small, mucky, data sets; a few "ologies".
 - 🌱 I’m currently learning: differential equations; tidyverse.
